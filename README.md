@@ -12,6 +12,7 @@ The game can be downloaded directly from this repository and doesn't need any in
 # Scripts:
 Throughout the game, I've created multiple scripts that can maintain collectibles, counters, shooting, physics and so on.
 
+# Conclusion:
 That's it for my first project.
 Looking more into the future for more, exciting... inovative... majestic... projects!
 It's been a pleasure... doing business with you!
